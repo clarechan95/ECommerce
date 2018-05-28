@@ -101,7 +101,8 @@
     "webpack-bundle-analyzer": "^2.11.2",
     "xlsx": "^0.12.12",
     "less": "~2.7.0",
-    "ng-alain": "^1.0.1"
+    "ng-alain": "^1.0.1",
+    "nswag": "^11.12.7"
   },
   "lint-staged": {
     "*.{cmd,html,json,md,sh,txt,xml,yml}": [
