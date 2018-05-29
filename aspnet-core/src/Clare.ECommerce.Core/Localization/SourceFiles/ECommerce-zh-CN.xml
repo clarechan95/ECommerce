@@ -4,14 +4,14 @@
     <text name="HomePage" value="主页" />
     <text name="About" value="关于我们" />
     <text name="WellcomeMessage" value="欢迎使用 ECommerce!" />
-    
     <text name="FormIsNotValidMessage" value="部分输入信息不符合要求，请检查并改正.." />
     <text name="TenantNameCanNotBeEmpty" value="租户名不能为空" />
-
     <text name="InvalidUserNameOrPassword" value="用户名或密码无效" />
     <text name="ThereIsNoTenantDefinedWithName{0}" value="租户 {0}不存在" />
     <text name="TenantIsNotActive" value="租户 {0} 未激活." />
     <text name="UserIsNotActiveAndCanNotLogin" value="用户 {0} 未激活，不能登录." />
+    <text name="UserEmailIsNotConfirmedAndCanNotLogin">您的邮箱未被确认，您无法登录.</text>
+    <text name="UserLockedOutMessage">您的账户已被锁定，请稍候再试.</text>
     <text name="PleaseEnterLoginInformation" value="请输入登录信息" />
     <text name="TenancyName" value="租户名称" />
     <text name="UserNameOrEmail" value="用户名或邮箱地址" />
@@ -20,6 +20,6 @@
     <text name="LogIn" value="登录" />
     <text name="Register" value="注册" />
     <text name="LoginFailed" value="登录失败!" />
-    
+    <text name="Settings">设置</text>
   </texts>
 </localizationDictionary>
